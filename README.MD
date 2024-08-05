@@ -46,7 +46,6 @@ Las contribuciones son bienvenidas. Por favor, abre un issue primero para discut
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contacto
-Si requieres algo mas avanzado lo podemos conversar
-Ariel Hernandez - [@alounderx](https://twitter.com/alounderx) - hola@arielhernandez.net
-
-Enlace del proyecto: [https://github.com/arielhernandezcl/anfp-scraping-api](https://github.com/arielhernandezcl/anfp-scraping-api)
+- Si requieres algo mas avanzado lo podemos conversar
+- Ariel Hernandez - [@alounderx](https://twitter.com/alounderx) - hola@arielhernandez.net
+- Enlace del proyecto: [https://github.com/arielhernandezcl/anfp-scraping-api](https://github.com/arielhernandezcl/anfp-scraping-api)
