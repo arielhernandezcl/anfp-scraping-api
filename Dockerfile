@@ -1,7 +1,9 @@
-FROM eclipse-temurin:21-jdk-jammy
+FROM ghcr.io/graalvm/graalvm-ce:ol9-java21
 
 WORKDIR /app
 
-COPY target/*.jar app.jar
+COPY target/*-runner /app/application
 
-ENTRYPOINT ["java","-jar","/app/app.jar"]
+RUN chmod +x /app/application
+
+ENTRYPOINT ["/app/application"]
