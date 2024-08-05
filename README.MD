@@ -20,7 +20,7 @@ Este proyecto es un scraper web que extrae estadísticas del Campeonato Chileno 
 
 ## Instalación
 1. Clona el repositorio:
-- git clone https://github.com/tu-usuario/anfp-scraper.git
+- git clone https://github.com/arielhernandezcl/anfp-scraping-api
 
 2. Navega al directorio del proyecto:
 - cd anfp-scraper
