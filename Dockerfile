@@ -1,4 +1,4 @@
-FROM ghcr.io/graalvm/graalvm-ce:ol9-java21
+FROM ghcr.io/graalvm/graalvm-ce:latest
 
 WORKDIR /app
 
