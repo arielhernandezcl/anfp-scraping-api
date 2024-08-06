@@ -15,7 +15,7 @@ Este proyecto es un scraper web que extrae estadísticas del Campeonato Chileno 
 - Maven
 
 ## Requisitos previos
-- Java 17 o superior
+- Java 21 o superior
 - Maven 3.6 o superior
 
 ## Instalación
